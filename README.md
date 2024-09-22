@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Johnodeleye
-- 👀 I’m interested in ... Web development (Front End)
-- 🌱 I’m currently learning ... Web development
-- 💞️ I’m looking to collaborate on ... WEB development 
-- 📫 Reach me on..... +2349132445279 or +2348120423106 on Whatsapp
+- 👋 Hi, I’m @Perspicacious
+- 👀 I’m a Software Developer
+- 🌱 I’m Buildding a Legacy in Tech 
+- 💞️ Founder @HubPost join now >>> https://hubpost-app.vercel.app
+- 📫 Reach me on..... https://thefuturefounder.onrender.com
 - 😄 Pronouns: ... : He
-- ⚡ Fun fact: ... Tech Enthuasist 
+- ⚡ Fun fact: ... Tech Enthuasist | Coding
 
 <!---
 Johnodeleye/Johnodeleye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -33,7 +33,7 @@ I’m **Odeleye John known as Perspicacious**, a **Full-Stack Developer**, **Mob
 ---
 
 ## ✨ Let’s Collaborate!  
-📧 **Email:** [your_email@example.com](mailto:johnayomide920@gmail.com)  
+📧 **Email:** [johnayomide920@gmail.com ](mailto:johnayomide920@gmail.com)  
 🌐 **Portfolio:** [perspicacious.dev ](perspicaciousdev.vercel.app)  
 💬 **Let’s Connect:** [LinkedIn](#), [Twitter](#)  
 

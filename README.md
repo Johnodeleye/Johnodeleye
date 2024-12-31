@@ -1,7 +1,7 @@
-# 🌟 Ayomide John Perspicacious
+# 🌟 ODELEYE JOHN PERSPICACIOUS.DEV
 
 Hi there! 👋 Welcome to my GitHub.  
-I’m **Ayomide John Perspicacious**, a **Full-Stack Developer**, **Mobile Developer**, and **Tech Creator** passionate about crafting amazing tech solutions. Based in 🇳🇬 Nigeria, I specialize in turning ideas into impactful applications. 🚀  
+I’m **Odeleye John known as Perspicacious**, a **Full-Stack Developer**, **Mobile Developer**, and **Tech Creator** passionate about crafting amazing tech solutions. Based in 🇳🇬 Nigeria, I specialize in turning ideas into impactful applications. 🚀  
 
 ---
 

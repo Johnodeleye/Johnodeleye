@@ -9,7 +9,7 @@ I’m **Odeleye John known as Perspicacious**, a **Full-Stack Developer**, **Mob
 
 - 🔭 **Currently Working On:** Web and mobile apps with **React**, **Next.js**, **TypeScript**, and **Node.js**.  
 - 🌱 **Learning & Growing:** Expanding my expertise in **React Native** and advanced back-end solutions.  
-- 🌍 **Building Community:** Founder of [HubPost Community](#), empowering developers, designers, and tech enthusiasts worldwide.  
+- 🌍 **Building Community:** Founder of [HubPost Community](https://hubpost-app.vercel.app), empowering developers, designers, and tech enthusiasts worldwide.  
 - ✨ **Fun Fact:** I’m a teenager breaking barriers in tech while balancing creativity and innovation! 🎉  
 
 ---
@@ -33,8 +33,8 @@ I’m **Odeleye John known as Perspicacious**, a **Full-Stack Developer**, **Mob
 ---
 
 ## ✨ Let’s Collaborate!  
-📧 **Email:** [your_email@example.com](mailto:your_email@example.com)  
-🌐 **Portfolio:** [www.ayomidejohn.com](#)  
+📧 **Email:** [your_email@example.com](mailto:johnayomide920@gmail.com)  
+🌐 **Portfolio:** [perspicacious.dev ](perspicaciousdev.vercel.app)  
 💬 **Let’s Connect:** [LinkedIn](#), [Twitter](#)  
 
 ---
